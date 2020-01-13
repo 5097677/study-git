@@ -9,7 +9,7 @@ echo 'test git 2222';
 echo '这里是测试第三次提交';
 echo '测试两次ADD，只有一次commit';
 
-
+echo 'hhahahahahha';
 
 
 
