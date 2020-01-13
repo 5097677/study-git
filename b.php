@@ -19,3 +19,6 @@ echo '主干上添加内容';
 echo 'dev 添加代码';
 
 echo 'test';
+
+echo '测试dev分支准备和平';
+
