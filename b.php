@@ -12,13 +12,4 @@ echo '测试两次ADD，只有一次commit';
 echo 'hhahahahahha';
 
 
-
-
-
-
-
-
-
-echo '分支上修改';
-
-
+echo '测试dev分支修改';
