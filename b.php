@@ -21,3 +21,6 @@ echo '远程DEV';
 
 echo '远程第二次提交';
 
+
+echo 'master不做删除操作';
+
