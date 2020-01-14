@@ -12,6 +12,8 @@ echo 'dev 二次修改';
 echo 'master 上的修改';
 
 
+echo 'master 尝试冲突';
+
 echo 'hehe';
 
 echo '这里是也不直达欧莎情况';
