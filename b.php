@@ -12,9 +12,3 @@ echo 'dev 二次修改';
 echo 'master 上的修改';
 
 
-echo 'hehe';
-
-echo '远程DEV';
-
-echo '远程第二次提交';
-
