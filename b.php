@@ -15,3 +15,5 @@ echo 'master 上的修改';
 echo 'hehe';
 
 echo '这里是也不直达欧莎情况';
+echo '远程DEV';
+
