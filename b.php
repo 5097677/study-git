@@ -1,6 +1,6 @@
 ﻿<?php
 date_default_timezone_set('Asia/Shanghai');
-header("Content-type:text/html;Charset=GB2312");
+header("Content-type:text/html;Charset=utf-8");
 echo '<pre>';
 set_time_limit(0);
 
@@ -15,11 +15,6 @@ echo date('Y-m-d H:i:s',1593532800);
 echo '<br />';
 echo date('Y-m-d H:i:s',1596211199);
 echo '<br />';
-
-
-
-echo 1111;
-
 
 
 
