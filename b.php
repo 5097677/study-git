@@ -1,24 +1,26 @@
 ﻿<?php
-include("./Snoopy.class.php");
 date_default_timezone_set('Asia/Shanghai');
+header("Content-type:text/html;Charset=GB2312");
 echo '<pre>';
 set_time_limit(0);
 
-echo 'test git';
-echo 'test git 2222';
-echo '这里是测试第三次提交';
-echo '测试两次ADD，只有一次commit';
-
-echo 'hhahahahahha';
 
 
-echo '测试dev分支修改';
+$start_time = strtotime('2020-07-22');
+$end_time = strtotime('2021-02-03');
+echo $start_time.'<br />'.$end_time;
+echo '<br />';
 
-echo '主干上添加内容';
+echo date('Y-m-d H:i:s',1593532800);
+echo '<br />';
+echo date('Y-m-d H:i:s',1596211199);
+echo '<br />';
 
-echo 'dev 添加代码';
 
-echo 'test';
 
-echo '测试dev分支准备和平';
+echo 1111;
+
+
+
+
 
